@@ -7,7 +7,7 @@
   </a>  
 </p>
 
-__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot)..__
+__This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [mia malkova](www.heroku.com/deploy?template=https://github.com/saikatsingh/Mia-malkovaBot)..__
 
 __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button__
 
@@ -63,12 +63,12 @@ OR
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
+<i>**[any question...](https://telegram.dog/AnnihilusOP)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/tree/main">
+<a href="www.heroku.com/deploy?template=https://github.com/saikatsingh/Mia-malkovaBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
