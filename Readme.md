@@ -68,7 +68,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="www.heroku.com/deploy?template=https://github.com/saikatsingh/Mia-malkovaBot">
+<a href="www.heroku.com/deploy?template=https://github.com/saikatsingh/Mia-malkovaBot/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
