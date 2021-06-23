@@ -1,7 +1,7 @@
-# Adv Auto Filter Bot V2
+# mia malkova bot 
 
 <p align="center">
-  <a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2/stargazers">
+  <a href="https://github.com/saikatsingh/mia-malkovabot/stargazers">
     <img src="https://img.shields.io/github/stars/saikatsingh/mia-malkovaBot?style=social">
 
   </a>  
