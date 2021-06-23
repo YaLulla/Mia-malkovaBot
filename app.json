@@ -1,22 +1,22 @@
 {
-    "name": "Auto Filter Bot V2",
+    "name": "Mia Malkova Bot",
     "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
-    "logo": "https://telegra.ph/file/667e15c821117633d07bd.png",
+    "logo": "https://telegra.ph/file/359af0230edbd01156078.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/AlbertEinsteinTG",
-    "repository": "https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/CrazyBotsz",
+    "Channel": "https://telegram.dog/MoviZenX",
+    "Group": "https://telegram.dog/MoviZeniX",
+    "Find Me": "https://telegram.dog/AnnihilusOP",
     "env": {
         "APP_ID": {
-            "description": "Your APP ID From my.telegram.org or @UseTGXBot",
+            "description": "Your APP ID",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org or @UseTGXBot",
+            "description": "Your API Hash",
             "value": ""
         },
         "BOT_TOKEN": {
@@ -24,11 +24,11 @@
             "value": ""
         },
         "DB_URI": {
-            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "description": "Your Mongo DB URL",
             "value": ""
         },
         "USER_SESSION": {
-            "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
+            "description": "A Pyrogram User Session String",
             "value": ""
         }
     },
